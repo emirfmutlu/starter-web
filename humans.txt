@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    emir
 
 # TECHNOLOGY COLOPHON
 
