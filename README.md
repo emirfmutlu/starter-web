@@ -7,4 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ##Further decription
-Learning about git
+Learning about git branches
